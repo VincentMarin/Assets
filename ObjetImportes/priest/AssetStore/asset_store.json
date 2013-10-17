@@ -1,0 +1,12 @@
+{
+	"publisher_id": 0,
+	"publisher_package_id": 3911,
+	"title": "Animated Medieval Priest",
+	"description": "This pack contains an animated medieval priest character. Animations are split. So it is possible to start each sequence \nseparated like:<br>\nanimation.Play(\"Walk\");\n<br><br>\nAnimations are the same like we applied to our beggar package. A video of it can be seen here:\n<br><br>\n<a href=\"http://www.youtube.com/watch?v=WtQ2Yo-lDig\">http://www.youtube.com/watch?v=WtQ2Yo-lDig</a>",
+	"changes": "Textures are now located in a sub-folder.",
+	"version_name": "1.1",
+	"category": 9,
+	"price": "40",
+	"recommended_features": [],
+	"required_features": []
+}
